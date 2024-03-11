@@ -87,4 +87,4 @@ In conclusion, the "Campus Eats" project aims to revolutionize the university di
 
 
 https://docs.google.com/document/d/1FTAoDr_JPPtZc4t0RWwRXht3_XRTOL0j1uBgBwNvgmc
-https://docs.google.com/document/d/1FTAoDr_JPPtZc4t0RWwRXht3_XRTOL0j1uBgBwNvgmc
+https://docs.google.com/document/d/1FTAoDr_JPPtZc4t0RWwRXht3_XRTOL0j1uBgBwNvgmc/edit
