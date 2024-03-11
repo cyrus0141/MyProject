@@ -20,9 +20,9 @@ Despite the diverse needs and preferences of university students, faculty, and s
 To enhance the overall dining experience for university students, faculty, and staff by providing a convenient and user-friendly mobile application for ordering and enjoying food on campus
 
       Specific objectives
-To provide personalized recommendations based on users' dietary preferences, budget constraints, and cuisine preferences
-To develop a user-friendly mobile application that allows users to easily discover nearby dining options on campus.
-To implement features for ordering food for pickup or delivery directly through the app, reducing wait times and streamlining the ordering process.
+1. To provide personalized recommendations based on users' dietary preferences, budget constraints, and cuisine preferences
+2. To develop a user-friendly mobile application that allows users to easily discover nearby dining options on campus.
+3. To implement features for ordering food for pickup or delivery directly through the app, reducing wait times and streamlining the ordering process.
 
 
       SIGNIFICANCE OF THE STUDY
