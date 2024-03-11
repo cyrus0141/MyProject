@@ -35,10 +35,10 @@ Innovation and Technology Integration- The project represents an innovative inte
 
 
     TARGET AUDIENCE
-University Students
-Faculty and Staff
-Visitors
-Local Businesses
+1. University Students
+2. Faculty and Staff
+3. Visitors
+4. Local Businesses
 
 
     FEATURES AND FUNCTIONALITY
